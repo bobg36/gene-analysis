@@ -21,3 +21,13 @@ reads goodcpgenes.csv and outputs updated_goodcpgenes.csv, which should have rea
 
 gene analysis.ipynb
 we find out how r1 and r2 genes are inherited here
+
+
+results:
+as expected, children's dominant gene is inherited most often from d, then r1, then r2
+a child's r1 gene is equally inherited from d and r1, then less often from r2
+a child's r2 gene is equally inherited from r1 and r2, and less often from d
+
+a parent's dominant gene goes to a child's d and r1 gene equally
+a parent's r1 gene goes to a child's r1 gene most often, then d, then r2
+a parent's r2 gene goes equally to a child's d, r1 and r2. 
